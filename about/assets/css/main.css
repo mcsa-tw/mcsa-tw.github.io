@@ -2616,6 +2616,7 @@
 	}
 
 		.wrapper > .inner {
+			background-color: #fff;
 			margin: 0 auto;
 			width: 60em;
 		}
