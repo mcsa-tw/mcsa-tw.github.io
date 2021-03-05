@@ -2627,19 +2627,19 @@
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
-				color: #1abc9c;
+				color: #0A0000;
 			}
 
 			.wrapper.style1 a {
-				color: #1abc9c;
+				color: #0A0000;
 			}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
-				color: #1abc9c;
+				color: #0A0000;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #1abc9c;
+				color: #0A0000;
 			}
 
 			.wrapper.style1 blockquote {
@@ -3306,7 +3306,7 @@
 /* Banner */
 
 	#banner {
-		background-color:#1586C5;
+		background-color:#0A0A0A;
 		color: rgba(255, 255, 255, 0.75);
 		text-align: center;
 		cursor: default;
@@ -3945,11 +3945,11 @@
 					.post.style1.invert button.special,
 					.post.style1.invert .button.special {
 						background-color: #fff;
-						color: #1abc9c !important;
+						color: #a !important;
 					}
 
 				.post.style1.invert .content {
-					background: #1abc9c;
+					background: #0B0A0A;
 				}
 
 					.post.style1.invert .content header p {
@@ -4409,7 +4409,7 @@
 					}
 
 				.post.style3.invert .content {
-					background: #9b59b6;
+					background: #0B0A0A;
 				}
 
 					.post.style3.invert .content header p {
