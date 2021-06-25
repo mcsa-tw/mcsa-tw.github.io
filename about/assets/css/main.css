@@ -2618,7 +2618,7 @@
 		.wrapper > .inner {
 			background-color: #fff;
 			margin: 0 auto;
-			width: 60em;
+			width: auto;
 		}
 
 		.wrapper.style1 {
@@ -3040,7 +3040,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.wrapper > .inner {
-				width: 65em;
+				width: auto;
 			}
 
 		}
@@ -3048,7 +3048,7 @@
 		@media screen and (max-width: 980px) {
 
 			.wrapper > .inner {
-				width: 100%;
+				width: auto;
 			}
 
 		}
@@ -3577,7 +3577,7 @@
 	}
 
 		#main .inner {
-			max-width: 60em;
+			max-width: auto;
 			margin: 0 auto;
 		}
 
@@ -3596,7 +3596,7 @@
 			}
 
 				#main .inner {
-					width: 90%;
+					width: auto;
 				}
 
 		}
@@ -3673,7 +3673,7 @@
 			.post .content .postnav {
 				position: absolute;
 				left: 2em;
-				bottom: 2em;
+				bottom: 8em;
 			}
 
 				.post .content .postnav .prev, .post .content .postnav .next {
